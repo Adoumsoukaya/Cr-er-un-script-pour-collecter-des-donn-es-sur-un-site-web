@@ -16,31 +16,3 @@ Installez les bibliothèques `requests` et `beautifulsoup4` en utilisant pip :
 pip install requests
 pip install beautifulsoup4
 
-
-
-### Instructions pour l'Utilisation
-
-1. **Clonez le dépôt** :
-    ```bash
-    git clone https://github.com/votre_nom_utilisateur/votre_depot.git
-    ```
-
-2. **Naviguez dans le répertoire** :
-    ```bash
-    cd votre_depot
-    ```
-
-3. **Installez les dépendances** :
-    ```bash
-    pip install requests beautifulsoup4
-    ```
-
-4. **Modifiez l'URL dans le script** pour qu'elle pointe vers le site que vous souhaitez scraper.
-
-5. **Exécutez le script** :
-    ```bash
-    python web_scraping.py
-    ```
-
-Assurez-vous de suivre les bonnes pratiques en matière de scraping et de respecter les conditions d'utilisation des sites web que vous ciblez.
-
